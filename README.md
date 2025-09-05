@@ -19,6 +19,7 @@ This project is designed to be beginner-friendly and a good starting point for l
 1. Clone the repository:
 
    https://github.com/joshuawallace25/QR-Code-Generator-Open-Source
+
    cd flutter_qr_generator
 
 
@@ -36,9 +37,9 @@ This project is designed to be beginner-friendly and a good starting point for l
 
 
 lib/
- ├── main.dart        # Entry point
- ├── screens/         # Screens of the app
- └── widgets/         # Reusable widgets
+ ─ main.dart        # Entry point
+ ─ screens/         # Screens of the app
+ ─ widgets/         # Reusable widgets
 
 
 
