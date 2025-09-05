@@ -1,16 +1,60 @@
-# qr_code_generator
 
-A new Flutter project.
+# Flutter QR Code Generator
 
-## Getting Started
+A simple open-source Flutter app to generate QR codes from text or URLs.  
+This project is designed to be beginner-friendly and a good starting point for learning Flutter + open-source collaboration.
 
-This project is a starting point for a Flutter application.
+##  Features
+- Generate QR codes from any text or link.
+- Minimal and clean UI.
+- Cross-platform (Android, iOS, Web, Desktop).
 
-A few resources to get you started if this is your first Flutter project:
+##  Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
+- [Flutter SDK](https://docs.flutter.dev/get-started/install) (latest stable version)
+- An editor (VS Code / Android Studio recommended)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+1. Clone the repository:
+
+   git clone https://github.com/<your-username>/flutter_qr_generator.git
+   cd flutter_qr_generator
+
+
+2. Install dependencies:
+
+   flutter pub get
+
+3. Run the app:
+
+
+   flutter run
+
+
+##  Project Structure
+
+
+lib/
+ ├── main.dart        # Entry point
+ ├── screens/         # Screens of the app
+ └── widgets/         # Reusable widgets
+
+
+
+## 🛠️ Roadmap
+
+* [ ] Save QR codes as images
+* [ ] Share QR codes
+* [ ] Add QR scanner
+* [ ] Add customization (colors, shapes)
+
+## 🤝 Contributing
+
+Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
