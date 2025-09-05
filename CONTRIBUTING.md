@@ -13,8 +13,7 @@ We welcome contributions in the form of:
 1. **Fork** the repository.
 2. **Clone** your fork:
    
-   git clone https://github.com/<your-username>/flutter_qr_generator.git
-
+   https://github.com/joshuawallace25/QR-Code-Generator-Open-Source
 
 3. Create a new branch:
 

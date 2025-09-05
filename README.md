@@ -18,7 +18,7 @@ This project is designed to be beginner-friendly and a good starting point for l
 ### Installation
 1. Clone the repository:
 
-   git clone https://github.com/<your-username>/flutter_qr_generator.git
+   https://github.com/joshuawallace25/QR-Code-Generator-Open-Source
    cd flutter_qr_generator
 
 
